@@ -23,9 +23,9 @@ sudo cp /path/to/virtualhost.sh /usr/local/bin/virtualhost
 
 ```bash
 cd /usr/local/bin
-wget -O virtualhost https://bitbucket.org/evrenkoksal/virtualhost/raw/84e112c6f4f8c206c60db2c598417ccc02380024/virtualhost.sh
+wget -O virtualhost https://github.com/evrenkoksal/virtualhost/raw/84e112c6f4f8c206c60db2c598417ccc02380024/virtualhost.sh
 chmod +x virtualhost
-wget -O virtualhost-nginx https://bitbucket.org/evrenkoksal/virtualhost/raw/84e112c6f4f8c206c60db2c598417ccc02380024/virtualhost-nginx.sh
+wget -O virtualhost-nginx https://github.com/evrenkoksal/virtualhost/raw/84e112c6f4f8c206c60db2c598417ccc02380024/virtualhost-nginx.sh
 chmod +x virtualhost-nginx
 ```
 
